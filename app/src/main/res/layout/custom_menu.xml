@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="bottom" >
+    <ImageButton android:id="@+id/NewGame1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/newgame_caro"
+        android:layout_weight="1"
+        android:contentDescription="NewGame"/>
+ 	<ImageButton android:id="@+id/Undo1"
+        android:layout_width="70dp"
+        android:layout_height="64dp"
+        android:src="@drawable/back"
+        android:layout_weight="1"
+        android:contentDescription="Undo"/>
+</LinearLayout>

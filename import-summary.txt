@@ -1,0 +1,238 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* MyCaroFinalVer1/
+* MyCaroFinalVer1/.classpath
+* MyCaroFinalVer1/.project
+* MyCaroFinalVer1/.settings/
+* MyCaroFinalVer1/.settings/org.eclipse.jdt.core.prefs
+* MyCaroFinalVer1/AndroidManifest.xml
+* MyCaroFinalVer1/bin/
+* MyCaroFinalVer1/bin/MyCaroFinalVer1.apk
+* MyCaroFinalVer1/bin/classes.dex
+* MyCaroFinalVer1/bin/classes/
+* MyCaroFinalVer1/bin/classes/my/
+* MyCaroFinalVer1/bin/classes/my/quoc/
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ActionItem.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/Board.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/BoardAI.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/BoardUI$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/BoardUI.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/Cell.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$10.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$11$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$11.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$2.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$3.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$4.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$5.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$6.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$7.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$8$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$8.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$9$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$9.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity$myThread.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/ComputerActivity.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/CustomMenuActivity$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/CustomMenuActivity$2.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/CustomMenuActivity.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/HumanPlayer$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/HumanPlayer.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/Move.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/MoveListener.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/Player.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/PopupWindows$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/PopupWindows.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/QuickAction$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/QuickAction$2$1.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/QuickAction$2.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/QuickAction$OnActionItemClickListener.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/QuickAction$OnDismissListener.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/QuickAction.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$anim.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$attr.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$color.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$drawable.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$id.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$layout.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$menu.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$raw.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$string.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R$style.class
+* MyCaroFinalVer1/bin/classes/my/quoc/caro_final/R.class
+* MyCaroFinalVer1/bin/res/
+* MyCaroFinalVer1/bin/res/drawable-hdpi/
+* MyCaroFinalVer1/bin/res/drawable-hdpi/back.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/high.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/high1.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/ic_accept.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/ic_add.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/ic_launcher.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/ic_list_more.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/ic_list_more_selected.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/ic_up.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/o.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/o1.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/o_last.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_arrow_down.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_arrow_up.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_bottom_frame.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_slider_background.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_slider_btn_normal.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_slider_btn_on.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_slider_btn_pressed.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_slider_btn_selected.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_slider_grip_left.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_slider_grip_right.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickaction_top_frame.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/quickcontact_drop_shadow.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/shadow_black.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/shadow_white.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/square_black.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/square_black_last.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/square_white.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/square_white_last.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/textfield_default.9.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/x.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/x1.png
+* MyCaroFinalVer1/bin/res/drawable-hdpi/x_last.png
+* MyCaroFinalVer1/bin/res/drawable-ldpi/
+* MyCaroFinalVer1/bin/res/drawable-ldpi/ic_launcher.png
+* MyCaroFinalVer1/bin/res/drawable-mdpi/
+* MyCaroFinalVer1/bin/res/drawable-mdpi/ic_launcher.png
+* MyCaroFinalVer1/bin/resources.ap_
+* MyCaroFinalVer1/gen/
+* MyCaroFinalVer1/gen/my/
+* MyCaroFinalVer1/gen/my/quoc/
+* MyCaroFinalVer1/gen/my/quoc/caro_final/
+* MyCaroFinalVer1/gen/my/quoc/caro_final/R.java
+* MyCaroFinalVer1/proguard.cfg
+* MyCaroFinalVer1/project.properties
+* MyCaroFinalVer1/res/
+* MyCaroFinalVer1/res/anim/
+* MyCaroFinalVer1/res/anim/grow_from_bottom.xml
+* MyCaroFinalVer1/res/anim/grow_from_bottomleft_to_topright.xml
+* MyCaroFinalVer1/res/anim/grow_from_bottomright_to_topleft.xml
+* MyCaroFinalVer1/res/anim/grow_from_top.xml
+* MyCaroFinalVer1/res/anim/grow_from_topleft_to_bottomright.xml
+* MyCaroFinalVer1/res/anim/grow_from_topright_to_bottomleft.xml
+* MyCaroFinalVer1/res/anim/rail.xml
+* MyCaroFinalVer1/res/anim/shrink_from_bottom.xml
+* MyCaroFinalVer1/res/anim/shrink_from_bottomleft_to_topright.xml
+* MyCaroFinalVer1/res/anim/shrink_from_bottomright_to_topleft.xml
+* MyCaroFinalVer1/res/anim/shrink_from_top.xml
+* MyCaroFinalVer1/res/anim/shrink_from_topleft_to_bottomright.xml
+* MyCaroFinalVer1/res/anim/shrink_from_topright_to_bottomleft.xml
+* MyCaroFinalVer1/res/drawable-hdpi/
+* MyCaroFinalVer1/res/drawable-hdpi/back.png
+* MyCaroFinalVer1/res/drawable-hdpi/high.png
+* MyCaroFinalVer1/res/drawable-hdpi/high1.png
+* MyCaroFinalVer1/res/drawable-hdpi/ic_accept.png
+* MyCaroFinalVer1/res/drawable-hdpi/ic_add.png
+* MyCaroFinalVer1/res/drawable-hdpi/ic_launcher.png
+* MyCaroFinalVer1/res/drawable-hdpi/ic_list_more.png
+* MyCaroFinalVer1/res/drawable-hdpi/ic_list_more_selected.png
+* MyCaroFinalVer1/res/drawable-hdpi/ic_up.png
+* MyCaroFinalVer1/res/drawable-hdpi/info.jpg
+* MyCaroFinalVer1/res/drawable-hdpi/newgame_caro.jpg
+* MyCaroFinalVer1/res/drawable-hdpi/o.png
+* MyCaroFinalVer1/res/drawable-hdpi/o1.png
+* MyCaroFinalVer1/res/drawable-hdpi/o_last.png
+* MyCaroFinalVer1/res/drawable-hdpi/opition_caro.jpg
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_arrow_down.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_arrow_up.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_bottom_frame.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_slider_background.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_slider_btn_normal.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_slider_btn_on.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_slider_btn_pressed.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_slider_btn_selected.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_slider_grip_left.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_slider_grip_right.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickaction_top_frame.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/quickcontact_drop_shadow.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/shadow_black.png
+* MyCaroFinalVer1/res/drawable-hdpi/shadow_white.png
+* MyCaroFinalVer1/res/drawable-hdpi/square_black.png
+* MyCaroFinalVer1/res/drawable-hdpi/square_black_last.png
+* MyCaroFinalVer1/res/drawable-hdpi/square_white.png
+* MyCaroFinalVer1/res/drawable-hdpi/square_white_last.png
+* MyCaroFinalVer1/res/drawable-hdpi/textfield_default.9.png
+* MyCaroFinalVer1/res/drawable-hdpi/x.png
+* MyCaroFinalVer1/res/drawable-hdpi/x1.png
+* MyCaroFinalVer1/res/drawable-hdpi/x_last.png
+* MyCaroFinalVer1/res/drawable-ldpi/
+* MyCaroFinalVer1/res/drawable-ldpi/ic_launcher.png
+* MyCaroFinalVer1/res/drawable-mdpi/
+* MyCaroFinalVer1/res/drawable-mdpi/ic_launcher.png
+* MyCaroFinalVer1/res/drawable/
+* MyCaroFinalVer1/res/drawable/quickaction_slider_btn.xml
+* MyCaroFinalVer1/res/layout/
+* MyCaroFinalVer1/res/layout/action_item.xml
+* MyCaroFinalVer1/res/layout/board_layout.xml
+* MyCaroFinalVer1/res/layout/custom_dialog.xml
+* MyCaroFinalVer1/res/layout/custom_menu.xml
+* MyCaroFinalVer1/res/layout/main.xml
+* MyCaroFinalVer1/res/layout/quickaction.xml
+* MyCaroFinalVer1/res/menu/
+* MyCaroFinalVer1/res/menu/game_menu.xml
+* MyCaroFinalVer1/res/raw/
+* MyCaroFinalVer1/res/raw/d.wav
+* MyCaroFinalVer1/res/raw/go.mp3
+* MyCaroFinalVer1/res/values/
+* MyCaroFinalVer1/res/values/colors.xml
+* MyCaroFinalVer1/res/values/strings.xml
+* MyCaroFinalVer1/res/values/styles.xml
+* MyCaroFinalVer1/src/
+* MyCaroFinalVer1/src/my/
+* MyCaroFinalVer1/src/my/quoc/
+* MyCaroFinalVer1/src/my/quoc/caro_final/
+* MyCaroFinalVer1/src/my/quoc/caro_final/ActionItem.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/Board.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/BoardAI.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/BoardUI.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/Cell.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/ComputerActivity.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/CustomMenuActivity.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/HumanPlayer.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/Move.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/MoveListener.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/Player.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/PopupWindows.java
+* MyCaroFinalVer1/src/my/quoc/caro_final/QuickAction.java
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

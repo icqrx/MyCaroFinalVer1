@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/build/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/src/main/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/build/intermediates/res/merged/debug/layout/quickaction.xml",
+        "source": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/src/main/res/layout/quickaction.xml"
+    },
+    {
+        "merged": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/build/intermediates/res/merged/debug/layout/custom_menu.xml",
+        "source": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/src/main/res/layout/custom_menu.xml"
+    },
+    {
+        "merged": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/build/intermediates/res/merged/debug/layout/action_item.xml",
+        "source": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/src/main/res/layout/action_item.xml"
+    },
+    {
+        "merged": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/build/intermediates/res/merged/debug/layout/board_layout.xml",
+        "source": "/Users/MarkNguyen/Downloads/MyCaroFinalVer1/app/src/main/res/layout/board_layout.xml"
+    }
+]
